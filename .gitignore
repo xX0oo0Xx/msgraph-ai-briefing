@@ -1,0 +1,22 @@
+# Secrets and credentials
+.env
+.token_cache.json
+
+# Personal documents
+*.pdf
+
+# Generated output
+out/
+logs/
+eval/results/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+
+# Job postings (not part of the project)
+JD/
